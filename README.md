@@ -4,5 +4,7 @@
 https://github.com/roboeggs/TCPStepper/tree/main/TechnicalTask
 
 Тесты проводились на шаговом двигателе:
+
 ![alt text](https://github.com/roboeggs/TCPStepper/blob/main/image/stepper.jpg)
+
 ![alt text](https://github.com/roboeggs/TCPStepper/blob/main/image/NameStepper.jpg)
