@@ -1,9 +1,9 @@
-# Управление шаговыми двигателями по TCP
-К ESP32 подключены 8 шаговых двигателей. ESP выходит в качестве сервера. Может быть подключено более одного клиента. Шаговые двигатели могут работать одновременно.
-Техническое задание описано здесь: 
+# Stepper motor control over TCP
+Eight stepper motors are connected to the ESP32. ESP comes out as a server. More than one client can be connected. Stepper motors can operate simultaneously.
+The terms of reference are described here:
 https://github.com/roboeggs/TCPStepper/tree/main/TechnicalTask
 
-Тесты проводились на шаговом двигателе:
+The tests were carried out on a stepper motor:
 
 ![alt text](https://github.com/roboeggs/TCPStepper/blob/main/image/stepper.jpg)
 
